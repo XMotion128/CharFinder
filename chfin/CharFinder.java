@@ -47,14 +47,4 @@ public class CharFinder {
         return returnNumber;
     }
 
-
-
-
-
-
-
-
-
-
-
 }
